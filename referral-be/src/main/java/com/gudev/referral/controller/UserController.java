@@ -39,7 +39,7 @@ public class UserController {
     }
 
     @PostMapping
-    public ResponseEntity<?> getAllByReferralCode(@Valid @RequestBody CreateUserRequest createUserRequest) {
+    public ResponseEntity<?> createUser(@Valid @RequestBody CreateUserRequest createUserRequest) {
         final var user = modelMapper.map(createUserRequest, User.class);
         final var userDto = modelMapper.map(userService.createUser(user), UserDto.class);
         return ResponseEntity.status(HttpStatus.CREATED).body(userDto);
