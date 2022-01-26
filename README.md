@@ -14,7 +14,7 @@ Answer of this question in this repo :)
 
 ## Example Images
 
-![example](./res/images/ex1.png)
+![example](./res/ex1.png)
 
 ![example](./res/ex2.png)
 
