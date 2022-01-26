@@ -8,8 +8,7 @@ Answer of this question in this repo :)
 - Exception Handling
 - Validation
 - H2 Database
-
-
+- Postman collection
 
 
 
@@ -21,6 +20,8 @@ Answer of this question in this repo :)
 
 ![example gif](./res/ex.gif)
 ## API Reference
+
+- #### check out postman collection under the res folder
 
 #### Base API: http://localhost:8080
 
