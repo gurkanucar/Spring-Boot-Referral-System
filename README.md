@@ -10,7 +10,7 @@ Answer of this question in this repo :)
 - H2 Database
 - Postman collection
 
-
+Video Link : [https://www.youtube.com/watch?v=TyoF5pbu-3Y](https://www.youtube.com/watch?v=TyoF5pbu-3Y)
 
 ## Example Images
 
